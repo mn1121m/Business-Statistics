@@ -31,7 +31,9 @@ Type: 경영
     - 제표(Tabulation): 각 범주에 속하는 빈도수를 구분하여 보여주는 표
         - 단순제표(도수표) - 범주가 한가지 기준으로 나뉘어진 경우
         - 교차제표(분할표) - 범주가 두개이상 기준으로 나뉘어진 경우
-    
+        
+            <img width="500" alt="W2-1" src="https://user-images.githubusercontent.com/83820185/163702147-162dc70d-a601-456d-8d5d-32f5f5dcab79.png">
+
 
 ---
 
