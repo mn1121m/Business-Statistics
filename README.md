@@ -18,7 +18,7 @@ Sweeney, D. J. and Williams, T. A. ,2018, South-Western
 ## Lecture plan
 - CH01. 통계학은 어떠한 학문인가
 - CH02-03. 데이터 기술하기
-- CH04-05. 자료기술, 확률론 개론
+- CH04-05. 자료기술, 확률론개론
 - CH06. 이산 확률분포
 - CH07. 연속 확률분포
 - CH08. 표본 추출법과 중심극한정리
