@@ -24,3 +24,5 @@ Sweeney, D. J. and Williams, T. A. ,2018, South-Western
 - CH08. 표본 추출법과 중심극한정리
 - CH09. 추정과 신뢰구간
 - CH10. 단일 표본 가설검증
+- CH11. 두 표본 가설 검정
+- CH12. 분산분석
