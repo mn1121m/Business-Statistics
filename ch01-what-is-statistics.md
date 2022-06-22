@@ -1,10 +1,7 @@
-# 경영통계-W1
-
-Created: 2022년 4월 17일 오전 12:16
-Last Edited Time: 2022년 4월 17일 오후 2:39
-Type: 경영
 
 # CH01. 통계학은 어떠한 학문인가
+
+중요) **정성변수 vs 정량변수 / 이산변수 vs 연속변수/ 4가지 척도**
 
 ---
 
@@ -94,8 +91,10 @@ Type: 경영
             - 납부한 소득세 금액
             - 학생의 체중
             - 대한민국 연중 강우량
-            
-        
+    - 정성적변수 vs 정량적변수 구분
+    
+        <img width="500" alt="W1-2" src="https://user-images.githubusercontent.com/83820185/163701934-6edf23c9-d1b7-40d7-84ef-53df1292237a.png">
+
 
 ---
 
@@ -128,8 +127,12 @@ Type: 경영
     - 등간척도 + 두 숫자 사이의 비율이 의미가 있음, 절대적인 “0” 존재
     - 예시) 임금, 주가의 변화, 무게
 
+- 4가지 척도 비교-1
 
-        
+    <img width="500" alt="W1-0" src="https://user-images.githubusercontent.com/83820185/163701896-6a761a4a-af48-4f32-a2e6-05685180b468.png">
 
+- 4가지 척도 비교-2
+
+    <img width="500" alt="W1-1" src="https://user-images.githubusercontent.com/83820185/163701898-b8fb105e-382d-46b9-b0ce-dd0a4035a43a.png">
 
 ---
