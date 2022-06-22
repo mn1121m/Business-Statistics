@@ -1,10 +1,4 @@
-# 경영통계-W6
-
-Created: 2022년 4월 16일 오후 4:00
-Last Edited Time: 2022년 4월 21일 오후 4:31
-Type: 경영
-
-# CH06. 이산확률 분포
+# CH06. 이산확률 분포(Discrete probability distribution)
 
 중요) **이항 분포, 포아송 분포**
 
@@ -98,6 +92,8 @@ P(x) = 빈도수 / 전체 빈도수
     - E(a + bX) = a + bE(x)
     - E(X + Y) = E(X) + E(Y)
     - E(aX + bY) = aE(x) + bE(Y)
+
+---
 
 ### 확률분포의 분산과 표준편차
 
