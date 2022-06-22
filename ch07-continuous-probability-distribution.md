@@ -1,12 +1,6 @@
-# 경영통계-W7
+# CH07. 연속확률분포(Continuous probability distribution)
 
-Created: 2022년 4월 16일 오후 7:18
-Last Edited Time: 2022년 4월 30일 오후 7:22
-Type: 경영
-
-# CH07. 연속확률분포(continuous probability distribution)
-
-중요) 균등분포, 정규분포, 표준정규분포
+중요) **균등분포, 정규분포, 표준정규분포**
 
 ---
 
